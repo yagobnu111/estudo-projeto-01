@@ -1,2 +1,1 @@
-# estudo-projeto-01
-projeto
+# Projeto de Estudos
